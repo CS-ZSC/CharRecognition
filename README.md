@@ -1,4 +1,7 @@
-# CharRecognition
-Neural network for character recognition in python
+# Character Recognition
+
+## Neural network for character recognition in python
+
 -------------------------------------------------------------
-Made for learning purposes
+
+### Made for learning purposes
